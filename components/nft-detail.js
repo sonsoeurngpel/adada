@@ -10,7 +10,7 @@ const nft = {
   imageAlt: 'SpaceBoo#968',
 
   properties: [
-    { name: 'Birth Chain', type:'Ethereum'},
+    { name: 'Birth Chain', type:'Avalanche'},
     { name: 'Background', type:'Background 150'},
     { name: 'Star', type:'Star 12F'},
     { name: 'Skin', type:'Skin 7'},
