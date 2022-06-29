@@ -79,7 +79,7 @@ const Heroes = ({ accounts, setAccounts }) => {
                   </div>
                   <div className="pt-3 sm:flex">
                   <button className="text-center mr-3 md:mb-0 sm:mb-3 mb-3 lg:mb-0 font-justanotherhand text-5xl inline-flex w-full py-3 px-4 rounded-md shadow bg-pale-yellow text-teal focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-300 focus:ring-offset-gray-900 items-center"><Supply className="h-8 mr-3"/>total supply: 4000</button> 
-                  <button className="text-center font-justanotherhand text-5xl inline-flex w-full py-3 px-4 rounded-md shadow bg-pale-yellow text-teal focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-300 focus:ring-offset-gray-900 items-center"><Ethereum className="h-10 mr-3"/>mint price: 0.5 avax</button> 
+                  <button className="text-center font-justanotherhand text-5xl inline-flex w-full py-3 px-4 rounded-md shadow bg-pale-yellow text-teal focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-300 focus:ring-offset-gray-900 items-center"><Supply className="h-8 mr-3"/>mint price: 0.5 avax</button> 
                   </div>
               </div>
             </div>
